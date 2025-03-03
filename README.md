@@ -41,9 +41,9 @@ Compare and contrast the Waterfall and Agile methodologies. Provide examples of 
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-  Software Developer - Responsible for writing code and implementing software solutions.
-  Quality Assurance Engineer - Ensures quality by designing and executing tests for the software.
-  Project Manager - Oversees the planning execution and delivery of software projects.
+  1. Software Developer - Responsible for writing code and implementing software solutions.
+  2. Quality Assurance Engineer - Ensures quality by designing and executing tests for the software.
+  3. Project Manager - Oversees the planning execution and delivery of software projects.
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
@@ -55,15 +55,15 @@ Discuss the importance of Integrated Development Environments (IDEs) and Version
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-1. Changing requirements - Requirements may change during the development cycle leading to scope creep and project delays.
-2. Tight Deadlines - Pressure to deliver software on schedule can lead to rushed work and compromised quality. 
-3. Technical Debt - These are accrued from shortcuts or sub-optimal solutions. It can impede future software development efforts and increase maintenance costs.
+  1. Changing requirements - Requirements may change during the development cycle leading to scope creep and project delays.
+  2. Tight Deadlines - Pressure to deliver software on schedule can lead to rushed work and compromised quality. 
+  3. Technical Debt - These are accrued from shortcuts or sub-optimal solutions. It can impede future software development efforts and increase maintenance costs.
 
-Ways of overcming these challenges include;
-1. Effective communication
-2. Prioritization of tasks
-3. Employing agile methodologies
-4. Regular reassesment of project goals and timelines
+  Ways of overcming these challenges include;
+  1. Effective communication
+  2. Prioritization of tasks
+  3. Employing agile methodologies
+  4. Regular reassesment of project goals and timelines
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
