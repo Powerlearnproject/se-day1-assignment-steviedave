@@ -30,21 +30,28 @@ List and briefly explain the phases of the Software Development Life Cycle.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-Waterfall methodology is the sequential approach to software development while agile methodology invloves an iterative and incremental approach focused on flexibility, collaboration, and responding to change.
+  Waterfall methodology is the sequential approach to software development while agile methodology invloves an iterative and incremental approach focused on flexibility,
+  collaboration, and responding to change.
 
-Waterfall methodology can be used, for example, in developing a software that would help in translation in an active communication setup between people speaking different langages. Since the function of this software will in most cases remain the same, waterfall methodology would suffice. Agile methodologies can be used, for example, in the development of streaming software. Users of such software usually change their preferences which would necessitate regular iterations during and even after the development phase.
+  Waterfall methodology can be used, for example, in developing a software that would help in translation in an active communication setup between people speaking different
+  langages. Since the function of this software will in most cases remain the same, waterfall methodology would suffice. Agile methodologies can be used, for example, in the
+  development of streaming software. Users of such software usually change their preferences which would necessitate regular iterations during and even after the development
+  phase.
 
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-Software Developer - Responsible for writing code and implementing software solutions.
-Quality Assurance Engineer - Ensures quality by designing and executing tests for the software.
-Project Manager - Oversees the planning execution and delivery of software projects.
+  Software Developer - Responsible for writing code and implementing software solutions.
+  Quality Assurance Engineer - Ensures quality by designing and executing tests for the software.
+  Project Manager - Oversees the planning execution and delivery of software projects.
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-Integrated Development Environments (IDEs) help programmers and software developers write code in a more efficient way by providing access to tools such as compilers, libraries and frameworks, syntax error detectors and much more all in one place. Examples include Visual Studio (VS) Code, CodeBlocks, and PyCharm.
-Version Control refers to the practice of tracking and managing changes to software source code. It is very useful especially in collaborative software engineering as all developers can easily commit changes to the code from a centralised location and all developers can track these changes as well. Examples of version control tools include Git and Subversion.
+  Integrated Development Environments (IDEs) help programmers and software developers write code in a more efficient way by providing access to tools such as compilers,
+  libraries and frameworks, syntax error detectors and much more all in one place. Examples include Visual Studio (VS) Code, CodeBlocks, and PyCharm.
+  Version Control refers to the practice of tracking and managing changes to software source code. It is very useful especially in collaborative software engineering as all
+  developers can easily commit changes to the code from a centralised location and all developers can track these changes as well. Examples of version control tools include
+  Git and Subversion.
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
@@ -60,27 +67,29 @@ Ways of overcming these challenges include;
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-Unit Testing - involves testing individual components or modules of the software such as the backend functionality.
-Integration Testing - involves testing interations between different components such as the the front end and backend communication.
-System testing - involves testing the entire software system as a whole.
-Acceptance testing - involves testing the software against user requirements to ensure it meets user needs.
+  1. Unit Testing - involves testing individual components or modules of the software such as the backend functionality.
+  2. Integration Testing - involves testing interations between different components such as the the front end and backend communication.
+  3. System testing - involves testing the entire software system as a whole.
+  4. Acceptance testing - involves testing the software against user requirements to ensure it meets user needs.
 
-Testing is important in quality asurance of software as it helps identify and fix defects early in the development process leading to hghr quality software products.
+  Testing is important in quality asurance of software as it helps identify and fix defects early in the development process leading to hghr quality software products.
 
 
 #Part 2: Introduction to AI and Prompt Engineering
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-Prompt engineering is the practice of crafting questons or statements to get the best possible responses from AI models.
-Prompt engineering is important because it helps users avoid getting confusing or in the worst case scenario, wrong answers from an AI chatbot as a consciquence of giving 
-vague prompts.
+  Prompt engineering is the practice of crafting questons or statements to get the best possible responses from AI models.
+  Prompt engineering is important because it helps users avoid getting confusing or in the worst case scenario, wrong answers from an AI chatbot as a consciquence of giving 
+  vague prompts.
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
-Vague Prompt Example: 
-"Translate this: Hello! What is your name?"
-Improved Prompt:
-"Translate these English sentences to German. Hello! What is your name?"
+  Vague Prompt Example: 
+  "Translate this: Hello! What is your name?"
+  Improved Prompt:
+  "Translate these English sentences to German. Hello! What is your name?"
 
-The improved prompt is more effective because the AI model can now provide a response that is specific to the user request, that is, translating the sentences to German. In the first prompt example, the AI model could have translated the sentences to a variety of languages since the user wasn't clear on which language to tanslate the sentences to.
+  The improved prompt is more effective because the AI model can now provide a response that is specific to the user request, that is, translating the sentences to German.
+  In the first prompt example, the AI model could have translated the sentences to a variety of languages since the user wasn't clear on which language to tanslate the
+  sentences to.
